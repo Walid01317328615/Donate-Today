@@ -1,0 +1,305 @@
+body {
+    padding: 10px;
+}
+
+.Lorem {
+    display: flex;
+}
+
+.img-box1 img {
+
+    width: 285px;
+    height: 404px;
+    margin-left: 258px;
+}
+
+.taxt-box1 button {
+    background: #FF5959;
+    border-radius: 5px;
+    color: #FFF;
+    font-family: Inter;
+    margin-left: 129px;
+}
+
+
+.taxt-box1 h1 {
+
+    color: #121212;
+    font-family: Inter;
+    font-size: 31px;
+    font-style: normal;
+    margin-right: 166px;
+    margin-top: 126px;
+    margin-left: 129px;
+}
+
+.taxt-box1 p {
+    color: #707070;
+    font-feature-settings: 'clig' off, 'liga' off;
+    font-family: Poppins;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 28px;
+    margin-left: 129px;
+}
+
+.Lorem-1 h1 {
+    text-align: center;
+    font-size: 45px;
+    color: #121212;
+    font-family: Inter;
+}
+
+.Lorem-1 p {
+    text-align: center;
+    color: #707070;
+    font-family: Poppins;
+}
+
+.box-1 {
+    display: grid;
+    grid-template-columns: auto auto auto auto auto;
+    padding: 210px;
+    margin-top: -172px;
+}
+
+
+
+.a-box {
+    border-radius: 10px;
+    border-width: 5px;
+    border-style: solid;
+    color: rgb(6, 6, 6);
+    width: 135px;
+    height: 70px;
+    flex-shrink: 0;
+    border-radius: 5px;
+    background: #FAFAFA;
+    text-align: center;
+}
+
+.a-box:hover {
+    background-color: rgb(155, 130, 180);
+}
+
+.Lorem-1 {
+    text-align: center;
+    color: #B3B3B3;
+    font-family: Poppins;
+}
+
+.Lorem-1 button {
+    background: #FF5959;
+    border-radius: 5px;
+    color: #FFF;
+    font-family: Inter;
+}
+
+.Lorem-2 h1 {
+
+    text-align: center;
+    color: #121212;
+    font-family: Inter;
+    font-size: 30px;
+}
+
+.Lorem-2 p {
+    text-align: center;
+    font-size: 16px;
+    color: #707070;
+    font-family: Poppins;
+}
+
+
+.sha-box {
+    display: grid;
+    grid-template-columns: auto auto auto;
+    padding: 80px;
+}
+
+
+.shadow-box1 {
+    text-shadow: 2px 2px 10px rgba(225, 4, 4, 0.05);
+    height: 300px;
+    width: 280px;
+    background: rgba(79, 157, 166, 0.10);
+    border-radius: 4%;
+
+}
+
+.shadow-box1 img {
+    width: 70px;
+    height: 51px;
+    margin-left: 97px;
+    margin-top: 29px;
+}
+
+
+.shadow-box2 {
+    text-shadow: 2px 2px 10px rgba(225, 4, 4, 0.05);
+    height: 300px;
+    width: 280px;
+    background: rgba(255, 89, 89, 0.10);
+    border-radius: 4%;
+
+}
+
+.shadow-box2 img {
+    width: 70px;
+    height: 51px;
+    margin-left: 97px;
+    margin-top: 29px;
+}
+
+
+.shadow-box3 {
+    text-shadow: 2px 2px 10px rgba(225, 4, 4, 0.05);
+    height: 300px;
+    width: 280px;
+    background: #FFF4D6;
+    border-radius: 4%;
+
+}
+
+.shadow-box3 img {
+    width: 70px;
+    height: 51px;
+    margin-left: 97px;
+    margin-top: 29px;
+}
+
+
+.Lorem-3 {
+    display: flex;
+}
+
+.taxt-box2 h1 {
+    color: #121212;
+    font-family: Inter;
+    font-size: 45px;
+    margin-left: 100px;
+}
+
+.taxt-box2 p{
+    font-size: 10px;
+    font-size:15px ;
+    font-family: Poppins;
+    color: #707070;
+    margin-left: 100px;
+
+}
+
+.img-box2 img{
+    width: 280PX;
+    height: 300PX;
+    border: #FF5959;
+    border-radius: 4px;
+    border-width: 5px;
+    border-style: solid;
+     margin-left: 142px;
+    margin-top: 19px;
+
+
+
+}
+
+.taxt-box2 button{
+    background: #FF5959;
+    border-radius: 5px;
+    color: #FFF;
+    font-family: Inter;
+    margin-left: 100px; 
+
+}
+
+
+.Lorem-4{
+    display: flex;
+}
+
+.taxt-box3 h1{
+    color: #121212;
+    font-family: Inter;
+    font-size: 45px;
+    margin-left: 200px;
+    margin-top: 178px;
+
+}
+
+
+.taxt-box3 p{
+    font-size: 10px;
+    font-size:15px ;
+    font-family: Poppins;
+    color: #707070;
+    margin-left: 200px; 
+    margin-top: 20px; 
+}
+
+.taxt-box3 button{
+    background: #FF5959;
+    border-radius: 5px;
+    color: #FFF;
+    font-family: Inter;
+    margin-left: 200px;
+    
+
+}
+
+
+    .img-box3 img{
+        width: 280PX;
+        height: 300PX;
+        border: #FF5959;
+        border-radius: 4px;
+        border-width: 5px;
+        border-style: solid;
+        margin-top: 169px;
+        margin-left: 200px; 
+    } 
+
+
+
+    .taxt-box4 h1{
+        text-align: center;
+        font-size: 45px;
+        color: #121212;
+        font-family: Inter;
+    } 
+
+.taxt-box4 p{
+    text-align: center;
+    color: #707070;
+    font-family: Poppins;
+}
+
+
+.last-button{
+    background: #FFF4D6;
+    width: 437px;
+    height: 60px;
+    margin-left: 403px;
+    text-align: center;
+}
+
+.Lorem-7{
+background-color: #121212;
+width: 100%;
+height: 102px;
+}
+
+.Lorem-7 h1{
+    text-align: center;
+    color: #FF5959;
+    font-size: 20px;
+    font-weight: bold;
+
+}
+
+.Lorem-7 p{
+    text-align: center;
+    font-size: 15px;
+    color: #FAFAFA;
+    font-weight: bold; 
+}

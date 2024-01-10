@@ -58,8 +58,8 @@ body {
 }
 
 .box-1 {
-    display: grid;
-    grid-template-columns: auto auto auto auto auto;
+    display: flex;
+   gap: 17px;
     padding: 210px;
     margin-top: -172px;
 }
@@ -113,8 +113,8 @@ body {
 
 
 .sha-box {
-    display: grid;
-    grid-template-columns: auto auto auto;
+    display: flex;
+   gap: 17px;
     padding: 80px;
 }
 
@@ -302,4 +302,30 @@ height: 102px;
     font-size: 15px;
     color: #FAFAFA;
     font-weight: bold; 
+}
+
+@media screen and (max-width:576px) {
+    .Lorem{
+        flex-direction: column;
+    }
+
+    .box-1{
+        flex-direction: column;
+    }
+
+    .Lorem-1{
+        align-items: center;
+    }
+
+    .sha-box {
+        flex-direction: column;
+    }
+
+    .Lorem-3{
+        flex-direction: column;
+    }
+
+    .Lorem-4{
+        flex-direction: column;
+    }
 }
